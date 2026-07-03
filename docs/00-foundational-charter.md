@@ -70,7 +70,7 @@ It is not, at root, the coccolithophore.
 
 It is not an algal bloom.
 
-It is not a production vat, a modified shipping container, a terminator gene, a mineral particle, a ballast slurry, or a carbon credit.
+It is not a production vat, a modified shipping container, a terminator gene, a mineral particle, a ballast slurry, a compression vessel, or a carbon credit.
 
 The object of engineering is the export pathway:
 
@@ -129,18 +129,34 @@ Candidate pathways include:
 - bio-ballasting,
 - zooplankton packaging,
 - mineral-assisted flocculation,
-- in situ sargassum ballasting,
+- spray-based in situ sargassum ballasting,
+- mobile in situ sargassum densification,
 - hybrid biological-mineral systems.
 
 The project shall not be defined by any one pathway.
 
 Each pathway must prove itself against the same governing metric.
 
-## 9. In Situ Sargassum Ballasting
+## 9. Sargassum Pathways
+
+Floating pelagic sargassum is a concrete research target because it is already abundant, already biologically fixed carbon, and already capable of causing coastal harm when it reaches beaches and nearshore waters.
+
+The project distinguishes between two related sargassum pathways:
+
+1. **Spray-based in situ ballasting** — apply a marine-safe ballast formulation directly to floating mats.
+2. **Mobile in situ sargassum densification** — use roaming processing vessels to intake, crush, compress, and immediately release processed biomass over sufficiently deep water.
+
+Both pathways seek to avoid collection-and-transport dependency. Both treat offshore sargassum itself as the intervention target. Both must operate only where depth, residence time, monitoring, and governance make climate sense.
+
+The shared thesis is:
+
+> Redirect offshore nuisance sargassum away from damaging coastal decomposition and toward verified deep-ocean carbon storage.
+
+The project does not assume that sinking sargassum is automatically sequestration. The treated biomass must reach sufficient depth, avoid rapid atmospheric return, and remain climate-positive after lifecycle emissions and ecological costs are counted.
+
+### 9.1 Spray-Based In Situ Ballasting
 
 This pathway investigates whether floating pelagic sargassum can be sunk directly in the open ocean by applying a marine-safe ballast formulation that clings to the biomass, increases its density, collapses buoyancy, and causes it to descend into deep ocean waters before it reaches shore.
-
-Unlike collection-and-transport approaches, this pathway does not depend on harvesting, dewatering, shipping, beach cleanup, or centralized disposal. It treats the floating sargassum mat itself as the intervention target.
 
 The core thesis is:
 
@@ -159,9 +175,38 @@ The basic formulation logic is:
 
 > binder makes it cling; mineral makes it sink.
 
+### 9.2 Mobile In Situ Sargassum Densification
+
+This pathway investigates whether floating pelagic sargassum can be mechanically processed and sunk directly within designated deep-ocean treatment zones.
+
+Unlike collection-and-transport approaches, this pathway does not bring sargassum to shore. Unlike spray-based in situ ballasting, it does not depend primarily on applying a substance over large floating mats. Instead, mobile processing vessels would operate within sufficiently deep offshore regions, continuously intake floating sargassum, collapse its buoyancy, compress it into denser forms, and release the processed biomass back into the same deep-water zone.
+
+The vessel functions as a mobile in situ processing unit. Its purpose is not transport. Its purpose is transformation.
+
+The core thesis is:
+
+> Mow, crush, compress, and release sargassum in place over deep water, turning floating nuisance biomass into dense sinking material without transporting it to land.
+
+The preferred first design is mechanical-only:
+
+1. intake floating sargassum,
+2. exclude debris and larger fauna where possible,
+3. crush gas bladders and buoyant structures,
+4. compress wet biomass into dense pucks, pellets, briquettes, bales, or mats,
+5. release processed biomass immediately back into deep water,
+6. verify sinking and estimate carbon residence time.
+
+Ballast, binder, glue, sand, clay, or mineral additives should be treated as secondary options, not first assumptions. The cleanest successful design is one in which mechanical processing alone makes the sargassum sink.
+
+### 9.3 Deployment Discipline
+
 Deployment shall occur only above water deep enough to provide meaningful carbon-storage residence time.
 
 The project shall not rely only on the absence of visible bubbling as proof of sequestration. It shall evaluate whether decomposition products remain isolated from the atmosphere on climate-relevant timescales.
+
+The basic operational doctrine for sargassum is:
+
+> Treat only where the ocean is deep enough, the biomass is likely to matter, and the result can be measured.
 
 ## 10. Carbon Covenant
 
