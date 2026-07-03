@@ -1,69 +1,96 @@
-# Ballast Formulation Research
+# Ballast and Densification Research
 
 ## Purpose
 
-This document compares candidate ballast formulations for **in situ sargassum ballasting**: the direct treatment of floating pelagic sargassum over sufficiently deep water so that it loses buoyancy and sinks before coastal landfall.
+This document compares candidate methods for making floating pelagic sargassum sink over sufficiently deep water.
 
-The goal is not merely to make sargassum sink. The goal is to identify formulations that can produce **net additional durable carbon storage at depth** after ecological, chemical, operational, and lifecycle costs are counted.
+It covers two related approaches:
 
-This document supports Issue #3: **Build Ballast Formulation Evaluation Matrix**.
+1. **Mechanical densification** — crush, chop, press, compress, or pelletize sargassum so that it loses buoyancy and sinks without added ballast.
+2. **Ballast formulation** — apply or integrate dense material and, if needed, a benign binder so that treated sargassum becomes negatively buoyant.
+
+The goal is not merely to make sargassum sink. The goal is to identify methods that can produce **net additional durable carbon storage at depth** after ecological, chemical, operational, and lifecycle costs are counted.
+
+This document supports Issue #3: **Build Ballast Formulation Evaluation Matrix**, and adds a compression-first research path for mobile in situ sargassum densification.
 
 ## Status
 
-First expanded research draft.
+Expanded research draft.
 
-This document is a screening framework, not a deployment recommendation. All candidate materials require laboratory, tank, mesocosm, toxicology, and permitting review before any open-water test.
+This document is a screening framework, not a deployment recommendation. All candidate methods require laboratory, tank, mesocosm, engineering, toxicology, and permitting review before any open-water test.
 
 ## Core Doctrine
 
+> The simplest successful sinking method wins.
+
+For spray-based in situ ballasting:
+
 > Binder makes it cling; mineral makes it sink.
 
-A viable formulation must solve two problems at once:
+For mobile in situ densification:
 
-1. **Adhesion problem:** the material must attach to wet, floating sargassum in seawater rather than immediately washing away.
-2. **Density problem:** the treated sargassum must become denser than surrounding seawater and sink quickly enough to reach target depth before substantial decomposition.
+> Compression is the cleanest possible ballast.
 
-Marine particle export is not governed by mass alone. Sinking depends on particle size, porosity, density, shape, stickiness, and decomposition. Overly sticky or mucus-rich systems may remain suspended longer than expected. Therefore, each formulation must be tested empirically.
+The project should test whether mechanical processing alone can make sargassum sink before adding external minerals, binders, or chemicals.
+
+## Central Hypothesis
+
+Floating sargassum is buoyant partly because of gas-filled bladders and trapped air within mats. Mechanical processing may reduce buoyancy by:
+
+- crushing gas bladders,
+- expelling trapped air,
+- compacting loose biomass,
+- reducing surface-area-to-volume ratio,
+- increasing effective wet density,
+- forming coherent sinking units.
+
+The central engineering question is:
+
+> Can crushed and compressed sargassum sink without added ballast?
 
 ## Desired Properties
 
-A viable ballast formulation should:
+A viable sinking method should:
 
-1. cling to wet sargassum,
-2. add density quickly,
-3. resist immediate wash-off,
-4. be cheap enough for large-scale application,
-5. avoid persistent pollution,
-6. avoid unacceptable toxicity,
-7. minimize turbidity outside the treated mat,
-8. avoid unintended fertilization,
-9. avoid unacceptable carbonate-chemistry penalties,
-10. allow carbon accounting and monitoring,
-11. sink treated biomass below target depth before substantial decomposition occurs,
-12. remain compatible with public review, permitting, and independent MRV.
+1. make treated sargassum negatively buoyant,
+2. produce rapid sinking below the upper ocean,
+3. resist re-float after release,
+4. minimize added external material,
+5. minimize energy use,
+6. avoid persistent pollution,
+7. avoid unacceptable toxicity,
+8. minimize turbidity outside the treatment area,
+9. avoid unintended fertilization,
+10. avoid unacceptable carbonate-chemistry penalties,
+11. allow carbon accounting and monitoring,
+12. sink treated biomass below target depth before substantial decomposition occurs,
+13. remain compatible with public review, permitting, and independent MRV.
 
 ## Screening Criteria
 
-Each formulation should be scored against the following criteria.
+Each method should be scored against the following criteria.
 
 | Criterion | Question | Why It Matters |
 |---|---|---|
-| Adhesion | Does it cling to wet sargassum in moving seawater? | Without adhesion, ballast disperses and the mat remains buoyant. |
-| Density addition | How much excess density does it add per unit mass? | Determines required dose and cost. |
+| Buoyancy collapse | Does the method eliminate enough buoyancy for sinking? | Without buoyancy collapse, the biomass remains at the surface. |
+| Density addition | How much excess density is created per unit mass? | Determines sinking reliability. |
 | Sinking velocity | How fast does treated biomass sink? | Faster sinking reduces upper-ocean decomposition. |
-| Wash-off resistance | Does the ballast remain attached during waves, rain, and descent? | Lost ballast weakens both carbon accounting and ecological control. |
-| Carbon content dilution | How much non-carbon mass is added per ton of sargassum carbon? | Excess mineral mass may make the intervention inefficient. |
+| Re-float risk | Does processed biomass return to the surface? | Re-floating undermines sequestration claims. |
+| Structural integrity | Does the output stay together during descent? | Fragmentation may increase remineralization. |
+| Carbon content dilution | How much non-carbon mass is added per ton of sargassum carbon? | Excess added mass may reduce practicality. |
+| Energy use | How much energy is required per treated ton? | Vessel and processing emissions may erase carbon benefit. |
+| Adhesion | If ballast is used, does it cling to wet sargassum? | Without adhesion, ballast disperses and the mat remains buoyant. |
+| Wash-off resistance | Does ballast remain attached during waves and descent? | Lost ballast weakens carbon accounting and ecological control. |
 | Toxicity | Are there harmful leachates, trace metals, or additives? | Prevents pollution and regulatory failure. |
-| Turbidity | Does the material create broad suspended sediment plumes? | Turbidity can affect light, organisms, and monitoring. |
-| Chemical effect | Does it alter pH, alkalinity, carbonate chemistry, or nutrient availability? | Chemistry may create benefits, penalties, or new risks. |
+| Turbidity | Does the method create broad suspended plumes? | Turbidity can affect light, organisms, and monitoring. |
+| Chemical effect | Does it alter pH, alkalinity, carbonate chemistry, or nutrients? | Chemistry may create benefits, penalties, or new risks. |
 | Fertilization risk | Does it release iron, phosphorus, or nitrogen? | Could unintentionally fertilize blooms. |
-| Biodegradation | Does the binder break down safely? | Avoids persistent marine pollution. |
-| Oxygen demand | Does the formulation accelerate or delay decomposition? | Deep oxygen stress is a key risk. |
+| Oxygen demand | Does the method accelerate or delay decomposition? | Deep oxygen stress is a key risk. |
 | Benthic footprint | What accumulates on the seafloor? | Determines local ecological impact. |
 | MRV compatibility | Can treated biomass be tracked and distinguished from untreated biomass? | Required for credible carbon claims. |
 | Cost and supply | Is it cheap and available at relevant scale? | Determines practical feasibility. |
-| Lifecycle emissions | What emissions are caused by mining, grinding, processing, transport, and application? | Must not erase the carbon benefit. |
-| Regulatory burden | Is the material likely to be permitted? | Determines whether even a pilot is possible. |
+| Lifecycle emissions | What emissions are caused by vessels, processing, mining, grinding, transport, and application? | Must not erase the carbon benefit. |
+| Regulatory burden | Is the method likely to be permitted? | Determines whether even a pilot is possible. |
 
 ## First-Pass Evaluation Matrix
 
@@ -74,20 +101,172 @@ Scores are qualitative and provisional:
 - **Low** = weak fit or major limitation.
 - **Risk** = major concern requiring explicit study.
 
-| Formulation Family | Adhesion | Sinking Potential | Cost/Scale | Chemical Risk | Ecological Risk | MRV Fit | First-Pass Verdict |
+| Method Family | External Material | Sinking Potential | Cost/Scale | Chemical Risk | Ecological Risk | MRV Fit | First-Pass Verdict |
 |---|---:|---:|---:|---:|---:|---:|---|
-| Clay-mineral slurry | Medium | Medium | High | Low-Medium | Medium | Medium | Best simple baseline for lab tests. |
-| Biodegradable binder-mineral slurry | High | High | Medium | Medium | Medium | High | Most promising early design class. |
-| Two-part marine-snow glue system | High | High | Low-Medium | Medium | Medium-High | High | Technically attractive, operationally complex. |
-| Limestone / calcium carbonate coating | Medium | Medium | High | Medium-High | Medium | Medium | Familiar material, but carbonate accounting is mandatory. |
-| Basalt / silicate mineral coating | Medium | High | Medium | Medium | Medium | Medium | Promising but may merge with alkalinity enhancement. |
-| Iron-rich mineral coating | Medium | High | Medium | High | High | Medium | High-risk because of fertilization potential. |
-| Dissolving dense salts / reactive minerals | Low-Medium | Low-Medium | Medium | High | Medium-High | Low | Secondary option unless tests show clear advantage. |
-| Sargassum-derived binder plus mineral | High | Medium-High | Low-Medium | Medium | Medium | High | Conceptually elegant, supply-chain uncertain. |
+| Crush only | None | Low-Medium | High | Low | Medium | High | First baseline test; may not be enough. |
+| Compress only | None | Medium-High | High | Low | Medium | High | Most important first hypothesis. |
+| Chop + compress | None | High | Medium-High | Low | Medium | High | Strong early candidate for shipboard processing. |
+| Pucks / briquettes | None or low | High | Medium | Low | Medium | High | Promising if output stays submerged. |
+| Pellets | None or low | High | Medium | Low | Medium | High | Good MRV, more machinery required. |
+| Bales / compacted mats | None or low | Medium | Medium | Low | Medium-High | Medium | Easy to form, possible fragmentation or uneven decomposition. |
+| Clay-mineral slurry | Yes | Medium | High | Low-Medium | Medium | Medium | Best simple spray-based baseline. |
+| Biodegradable binder-mineral slurry | Yes | High | Medium | Medium | Medium | High | Most promising spray-based design class. |
+| Two-part marine-snow glue system | Yes | High | Low-Medium | Medium | Medium-High | High | Technically attractive, operationally complex. |
+| Limestone / calcium carbonate coating | Yes | Medium | High | Medium-High | Medium | Medium | Familiar material, but carbonate accounting is mandatory. |
+| Basalt / silicate mineral coating | Yes | High | Medium | Medium | Medium | Medium | Promising but may merge with alkalinity enhancement. |
+| Iron-rich mineral coating | Yes | High | Medium | High | High | Medium | High-risk because of fertilization potential. |
+| Sargassum-derived binder plus mineral | Yes | Medium-High | Low-Medium | Medium | Medium | High | Conceptually elegant, supply-chain uncertain. |
 
-## Candidate Formulation Families
+## Mechanical Densification Methods
 
-### 1. Clay-Mineral Slurry
+### 1. Crush Only
+
+Crushing targets gas bladders and trapped air.
+
+Expected mechanism:
+
+- crush pneumatocysts and buoyant structures,
+- reduce trapped air,
+- weaken floating mat structure.
+
+Advantages:
+
+- simplest mechanical intervention,
+- low added material,
+- low chemical risk,
+- useful baseline.
+
+Risks and uncertainties:
+
+- may not produce negative buoyancy,
+- crushed biomass may remain floating,
+- fragments may decompose in the upper ocean,
+- may increase surface-area-to-volume ratio and accelerate decomposition.
+
+Best use:
+
+> First mechanical baseline.
+
+### 2. Compress Only
+
+Compression presses wet sargassum into denser units.
+
+Possible machinery:
+
+- screw press,
+- roller press,
+- hydraulic press,
+- belt press,
+- extruder.
+
+Expected mechanism:
+
+- expel trapped air and water,
+- collapse buoyant structures,
+- increase density,
+- form coherent sinking units.
+
+Advantages:
+
+- no external ballast,
+- low chemical risk,
+- high MRV compatibility,
+- practical for mobile in situ processing vessels.
+
+Risks and uncertainties:
+
+- wet biomass may rebound after release,
+- units may re-float,
+- units may fragment,
+- processing energy may be high,
+- machinery may clog.
+
+Best use:
+
+> Highest-priority first test. Compression alone may eliminate the need for ballast.
+
+### 3. Chop + Compress
+
+Chopping may make compression more effective by reducing mat structure and allowing tighter packing.
+
+Expected mechanism:
+
+- chop sargassum into smaller pieces,
+- reduce air pockets,
+- allow denser packing,
+- form more uniform compressed units.
+
+Advantages:
+
+- may improve density and output consistency,
+- compatible with continuous shipboard processing,
+- may reduce clogging if engineered properly.
+
+Risks and uncertainties:
+
+- small fragments may escape and decompose near the surface,
+- higher surface area may increase decomposition,
+- more machinery and energy required.
+
+Best use:
+
+> Strong candidate if whole-biomass compression underperforms.
+
+### 4. Pucks, Briquettes, and Pellets
+
+Processed sargassum may be formed into standardized sinking units.
+
+Possible outputs:
+
+- pucks,
+- briquettes,
+- pellets,
+- dense plugs,
+- extruded ropes or logs.
+
+Advantages:
+
+- high measurement precision,
+- known mass and dimensions,
+- easier sinking tests,
+- easier tagging and tracking.
+
+Risks and uncertainties:
+
+- pelletizing may require high energy,
+- drying would likely be too energy-intensive offshore,
+- small pellets may be consumed or dispersed,
+- unit integrity must be tested.
+
+Best use:
+
+> Promising if wet compression can create durable sinking units without drying.
+
+### 5. Bales or Compacted Mats
+
+Larger compressed units may be easier to form aboard vessels.
+
+Advantages:
+
+- simpler than pelletization,
+- potentially high throughput,
+- easier handling.
+
+Risks and uncertainties:
+
+- uneven density,
+- trapped air pockets,
+- partial re-float risk,
+- larger benthic deposits,
+- harder to model decomposition.
+
+Best use:
+
+> Secondary option if pucks or pellets are too machinery-intensive.
+
+## Ballast Formulation Families
+
+### 6. Clay-Mineral Slurry
 
 A dense slurry of clay and mineral particles could be sprayed, poured, or misted over floating sargassum mats.
 
@@ -100,33 +279,11 @@ Possible materials:
 - basalt fines,
 - other tested non-toxic mineral fines.
 
-Expected mechanism:
-
-- fine particles adhere to wet sargassum surfaces,
-- mineral mass fills buoyant spaces,
-- treated biomass becomes denser,
-- mat begins to sink as a mineral-organic aggregate.
-
-Advantages:
-
-- conceptually simple,
-- potentially cheap,
-- likely scalable,
-- useful as a baseline control in experiments.
-
-Risks and uncertainties:
-
-- ballast may wash off before sinking,
-- slurry may create turbidity,
-- required mass may be large,
-- fine particles may spread beyond treatment area,
-- benthic accumulation must be measured.
-
 Best use:
 
-> Baseline material for first lab and tank tests.
+> Baseline material for spray-based lab and tank tests.
 
-### 2. Biodegradable Binder-Mineral Slurry
+### 7. Biodegradable Binder-Mineral Slurry
 
 This formulation combines a sticky biodegradable binder with dense mineral ballast.
 
@@ -138,179 +295,48 @@ Possible binder classes:
 - cellulose-derived binders,
 - other marine-biodegradable polymers.
 
-Possible ballast materials:
-
-- clay,
-- limestone,
-- basalt,
-- silicate mineral fines,
-- other clean dense mineral particles.
-
-Expected mechanism:
-
-- binder adheres to wet sargassum,
-- mineral particles become trapped in the binder,
-- total density increases,
-- treated mat sinks as a coated or flocculated mass.
-
-Advantages:
-
-- directly addresses the adhesion problem,
-- tunable binder-to-mineral ratio,
-- likely better sinking reliability than mineral slurry alone,
-- easier to design for tracer addition or visual marking.
-
-Risks and uncertainties:
-
-- binder may persist longer than desired,
-- binder may alter microbial decomposition,
-- binder may create mucus-like tails or drag that slow sinking,
-- cost may be higher than mineral slurry alone,
-- toxicity and degradation products require testing.
-
 Best use:
 
-> Preferred early design class because it combines adhesion and density in one controllable formulation.
+> Preferred spray-based design class because it combines adhesion and density.
 
-### 3. Two-Part Marine-Snow Glue System
+### 8. Two-Part Marine-Snow Glue System
 
 This approach applies two components sequentially:
 
 1. a sticky biodegradable binder or primer,
 2. dense mineral ballast.
 
-Expected mechanism:
-
-- first component primes the wet sargassum surface,
-- second component binds to the primed biomass,
-- a dense artificial marine-snow aggregate forms,
-- treated biomass sinks.
-
-Advantages:
-
-- strong adhesion potential,
-- lower wasted mineral mass if binding is efficient,
-- tunable field application,
-- useful for controlled pilots.
-
-Risks and uncertainties:
-
-- operationally more complex,
-- timing between components may matter,
-- rough seas may disrupt application,
-- public and regulatory scrutiny may be higher,
-- more difficult to scale than one-part slurry.
-
 Best use:
 
-> Pilot-scale engineering option if one-part slurry fails to adhere well enough.
+> Pilot-scale engineering option if one-part spray systems fail to adhere well enough.
 
-### 4. Limestone or Calcium Carbonate Coating
+### 9. Limestone or Calcium Carbonate Coating
 
 Finely ground limestone or calcium carbonate could be applied alone or with a binder.
-
-Advantages:
-
-- familiar material,
-- potentially cheap,
-- abundant,
-- publicly legible as a naturally occurring marine mineral.
-
-Risks and uncertainties:
-
-- carbonate chemistry must be counted honestly,
-- calcium carbonate is not automatically carbon-negative,
-- dissolution behavior depends on depth and saturation state,
-- added carbonate mass may complicate carbon accounting,
-- required dose may be large.
 
 Best use:
 
 > Candidate mineral ballast if carbonate-system effects are explicitly modeled and measured.
 
-### 5. Basalt or Silicate Mineral Coating
+### 10. Basalt or Silicate Mineral Coating
 
 Basalt or other silicate mineral fines could provide dense ballast. In some designs, silicates may also be relevant to alkalinity enhancement.
-
-Advantages:
-
-- dense,
-- potentially abundant,
-- may have longer-term alkalinity relevance,
-- may avoid some carbonate-specific accounting issues.
-
-Risks and uncertainties:
-
-- mining and grinding emissions may be significant,
-- trace metal release must be tested,
-- fine particles may create turbidity,
-- coupling to alkalinity enhancement increases regulatory complexity,
-- sourcing impacts must be counted.
 
 Best use:
 
 > Promising but should be treated as a combined ballast-and-chemistry pathway, not simple inert weight.
 
-### 6. Iron-Rich Mineral Coating
+### 11. Iron-Rich Mineral Coating
 
 Iron-rich minerals may provide dense ballast but carry a major fertilization risk.
-
-Advantages:
-
-- dense,
-- potentially effective as weight,
-- may be available from industrial or geological sources.
-
-Risks and uncertainties:
-
-- accidental iron fertilization,
-- harmful bloom risk,
-- food-web effects,
-- legal complexity due to ocean fertilization precedents,
-- difficult public legitimacy.
 
 Best use:
 
 > Do not prioritize for early work unless fertilization is intentionally part of the study design and explicitly permitted.
 
-### 7. Dissolving or Reactive Mineral Systems
-
-Some dense salts or reactive minerals may initially add mass but dissolve or alter local chemistry.
-
-Advantages:
-
-- possible rapid density change,
-- possible niche chemical benefits.
-
-Risks and uncertainties:
-
-- ballast may dissolve before target depth,
-- local chemistry may shift unpredictably,
-- difficult MRV,
-- unclear durability benefit.
-
-Best use:
-
-> Secondary option only if laboratory tests show unexpectedly strong performance.
-
-### 8. Sargassum-Derived Binder Plus Mineral Ballast
+### 12. Sargassum-Derived Binder Plus Mineral Ballast
 
 Sargassum itself contains useful biopolymers, including alginate-like compounds. A circular design could use processed sargassum-derived binder to help sink fresh floating sargassum.
-
-Advantages:
-
-- conceptually elegant,
-- may improve public legitimacy,
-- may reduce dependence on synthetic additives,
-- connects nuisance biomass to its own treatment system.
-
-Risks and uncertainties:
-
-- requires processing infrastructure,
-- inconsistent biomass chemistry,
-- possible contamination from metals or pollutants,
-- cost and supply reliability unclear,
-- may compete with higher-value sargassum uses.
 
 Best use:
 
@@ -318,34 +344,77 @@ Best use:
 
 ## Experimental Test Sequence
 
-### Stage 1: Bench Adhesion Tests
+### Stage 1: Untreated Controls
 
-Goal: determine what sticks to wet sargassum.
+Goal: characterize baseline buoyancy and sinking behavior.
 
-Measure:
+Test:
 
-- initial adhesion,
-- adhesion after agitation,
-- adhesion after simulated rain,
-- adhesion after salinity variation,
-- mass retained after wash-off,
-- visible residue and dispersal.
-
-### Stage 2: Density and Buoyancy Tests
-
-Goal: determine minimum dose required to overcome buoyancy.
+- fresh whole sargassum,
+- decaying whole sargassum,
+- naturally fragmented sargassum,
+- dense mat sections,
+- loose mat sections.
 
 Measure:
 
-- wet sargassum mass,
+- wet mass,
 - dry mass,
 - carbon content,
-- air-pocket volume,
-- ballast mass added,
-- treated aggregate density,
-- time to loss of buoyancy.
+- buoyancy,
+- natural sinking tendency,
+- decomposition rate.
 
-### Stage 3: Sinking Column Tests
+### Stage 2: Mechanical Processing Tests
+
+Goal: determine whether mechanical processing alone can make sargassum sink.
+
+Test:
+
+- crush only,
+- chop only,
+- compress only,
+- chop + compress,
+- pucks,
+- briquettes,
+- pellets,
+- compacted bales or mats.
+
+Measure:
+
+- density,
+- time to sink,
+- sinking velocity,
+- re-float risk,
+- fragmentation,
+- processing energy,
+- output consistency.
+
+### Stage 3: Ballast Addition Tests
+
+Goal: determine whether external ballast is needed.
+
+Add ballast only after mechanical-only tests.
+
+Test:
+
+- compression + sand or clean mineral material,
+- compression + clay,
+- compression + binder,
+- compression + binder + mineral,
+- spray-based clay-mineral slurry,
+- spray-based binder-mineral slurry.
+
+Measure:
+
+- incremental sinking benefit,
+- added mass,
+- wash-off,
+- chemical effects,
+- cost,
+- lifecycle emissions.
+
+### Stage 4: Sinking Column Tests
 
 Goal: measure sinking speed and integrity.
 
@@ -353,12 +422,13 @@ Measure:
 
 - sinking velocity,
 - fragmentation,
-- ballast loss,
+- ballast loss if used,
 - particle plume,
 - aggregate shape,
-- descent stability.
+- descent stability,
+- re-float behavior.
 
-### Stage 4: Decomposition and Gas Tests
+### Stage 5: Decomposition and Gas Tests
 
 Goal: estimate whether carbon returns rapidly to the atmosphere or remains dissolved/stored at depth.
 
@@ -372,9 +442,9 @@ Measure:
 - microbial activity,
 - decomposition rate.
 
-### Stage 5: Toxicology and Leaching Tests
+### Stage 6: Toxicology and Leaching Tests
 
-Goal: determine whether the formulation introduces unacceptable contaminants.
+Goal: determine whether the method introduces unacceptable contaminants.
 
 Measure:
 
@@ -384,7 +454,7 @@ Measure:
 - toxicity to representative organisms,
 - turbidity persistence.
 
-### Stage 6: Mesocosm Tests
+### Stage 7: Mesocosm Tests
 
 Goal: observe behavior in more realistic seawater communities.
 
@@ -400,59 +470,82 @@ Measure:
 
 Before any open-water pilot, the project should know:
 
-1. minimum ballast-to-wet-sargassum ratio,
-2. minimum ballast-to-dry-carbon ratio,
-3. expected sinking speed,
-4. expected depth reached before major decomposition,
-5. wash-off fraction,
-6. toxicity and leaching profile,
-7. turbidity profile,
-8. lifecycle emissions per treated ton,
-9. approximate cost per treated ton,
-10. MRV method for treated biomass.
+1. whether compression alone can make sargassum sink,
+2. minimum compression pressure or process setting,
+3. output density,
+4. output form performance,
+5. expected sinking speed,
+6. expected depth reached before major decomposition,
+7. re-float risk,
+8. fragmentation rate,
+9. energy required per processed ton,
+10. vessel-emission estimate per processed ton,
+11. minimum ballast-to-wet-sargassum ratio if ballast is needed,
+12. minimum ballast-to-dry-carbon ratio if ballast is needed,
+13. toxicity and leaching profile if additives are used,
+14. turbidity profile,
+15. approximate cost per treated ton,
+16. MRV method for treated biomass.
 
 ## Working Hypotheses
 
-### H-001: Adhesion is the central bottleneck
+### H-001: Compression may replace ballast
+
+Mechanical densification may be sufficient to collapse buoyancy and create sinking biomass units.
+
+### H-002: Crush-only may be insufficient
+
+Crushing gas bladders may reduce buoyancy but fail to create coherent sinking material.
+
+### H-003: Output form matters
+
+Pucks, briquettes, pellets, bales, and compressed mats may behave very differently during descent.
+
+### H-004: Adhesion is the central bottleneck for spray-based systems
 
 Plain mineral ballast may be too easily washed off. Binder-mineral systems may outperform mineral-only systems.
 
-### H-002: More stickiness is not always better
+### H-005: More stickiness is not always better
 
 A formulation that creates mucus-like drag may slow sinking even if it improves adhesion.
 
-### H-003: The best formulation may be region-specific
+### H-006: The best method may be region-specific
 
-Wave state, salinity, mat density, sargassum condition, and target depth may change which formulation performs best.
+Wave state, salinity, mat density, sargassum condition, vessel design, and target depth may change which method performs best.
 
-### H-004: Carbon efficiency matters
+### H-007: Carbon efficiency matters
 
-A formulation that requires too much mineral mass per ton of sargassum carbon may fail on cost, logistics, or lifecycle emissions.
+A method that requires too much mineral mass or too much vessel energy per ton of sargassum carbon may fail on cost, logistics, or lifecycle emissions.
 
-### H-005: The first pilot formulation should be boring
+### H-008: The first pilot method should be boring
 
-The first candidate should favor known materials, simple chemistry, measurable behavior, and low persistence over theoretical maximum performance.
+The first candidate should favor simple mechanics, known materials, measurable behavior, and low persistence over theoretical maximum performance.
 
 ## Provisional Ranking for First Tests
 
-1. **Biodegradable binder-mineral slurry** — best overall hypothesis because it addresses adhesion and density together.
-2. **Clay-mineral slurry** — best baseline because it is simple and cheap.
-3. **Two-part marine-snow glue system** — strong pilot option if one-part systems underperform.
-4. **Basalt or silicate mineral coating** — promising but chemistry and sourcing must be studied.
-5. **Limestone or calcium carbonate coating** — cheap and familiar but carbonate accounting is a concern.
-6. **Sargassum-derived binder plus mineral** — attractive longer-term circular option.
-7. **Iron-rich mineral coating** — deprioritize because of fertilization risk.
-8. **Dissolving/reactive minerals** — deprioritize unless lab data show a clear advantage.
+1. **Compress only** — highest-priority test because it may eliminate need for additives.
+2. **Chop + compress** — strong candidate if whole-biomass compression underperforms.
+3. **Compressed pucks or briquettes** — promising if wet processing creates stable sinking units.
+4. **Clay-mineral slurry** — best simple spray-based baseline.
+5. **Biodegradable binder-mineral slurry** — best spray-based hypothesis if adhesion is limiting.
+6. **Two-part marine-snow glue system** — strong but operationally complex.
+7. **Basalt or silicate mineral coating** — promising but chemistry and sourcing must be studied.
+8. **Limestone or calcium carbonate coating** — cheap and familiar but carbonate accounting is a concern.
+9. **Sargassum-derived binder plus mineral** — attractive longer-term circular option.
+10. **Iron-rich mineral coating** — deprioritize because of fertilization risk.
 
 ## Near-Term Deliverables
 
-1. Create a quantitative scoring sheet for the matrix.
-2. Define lab test protocols for adhesion and sinking.
-3. Identify candidate minerals with low contaminant risk.
-4. Identify candidate binders with marine biodegradation evidence.
-5. Estimate rough ballast-to-sargassum mass ratios.
-6. Add lifecycle-emissions fields for mining, grinding, transport, and application.
-7. Add MRV requirements for each formulation.
+1. Create a quantitative scoring sheet for compression and ballast methods.
+2. Define lab test protocols for crush-only, compression-only, and chop + compression.
+3. Compare output forms: puck, pellet, briquette, bale, compressed mat.
+4. Estimate energy per processed wet ton.
+5. Estimate vessel emissions per processed ton.
+6. Determine whether ballast is needed at all.
+7. Identify candidate minerals with low contaminant risk if ballast is needed.
+8. Identify candidate binders with marine biodegradation evidence if binder is needed.
+9. Add lifecycle-emissions fields for vessel operation, machinery, mining, grinding, transport, and application.
+10. Add MRV requirements for each method.
 
 ## References and Research Leads
 
