@@ -21,18 +21,22 @@ This repository treats multiple pathways as candidates, including:
 - bio-ballasting,
 - zooplankton packaging,
 - mineral-assisted flocculation,
-- in situ sargassum ballasting,
+- spray-based in situ sargassum ballasting,
+- mobile in situ sargassum densification,
 - hybrid biological-mineral systems.
 
 No pathway defines the project. Each pathway must prove itself against the same carbon-accounting, ecological, and governance standards.
 
-## In Situ Sargassum Ballasting
+## Sargassum Pathways
 
-One concrete pathway is the direct treatment of floating pelagic sargassum over sufficiently deep water.
+One concrete research area is the treatment of floating pelagic sargassum over sufficiently deep water.
 
-The concept is to apply a marine-safe ballast formulation that clings to floating sargassum, increases its density, collapses buoyancy, and causes it to sink before it reaches shore.
+The project now distinguishes between two related approaches:
 
-This pathway may align climate goals with coastal-management needs in regions affected by large sargassum arrivals, including the Caribbean and Yucatán Peninsula.
+1. **Spray-based in situ ballasting** — applying a marine-safe ballast formulation that clings to floating sargassum, increases its density, collapses buoyancy, and causes it to sink before it reaches shore.
+2. **Mobile in situ sargassum densification** — using roaming processing vessels to intake floating sargassum, crush buoyant structures, compress the biomass into dense sinking forms, and release it immediately back into the same deep-water zone.
+
+Mobile densification vessels would not primarily transport sargassum. They would act as moving in situ processing units: mowing, crushing, compressing, and releasing biomass only where depth, residence time, monitoring, and governance conditions make climate sense.
 
 The project does not assume that sinking sargassum is automatically carbon sequestration. It must prove:
 
