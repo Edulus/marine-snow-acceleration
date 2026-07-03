@@ -16,3 +16,8 @@ Create these as GitHub issues:
 12. Research satellite and drift-modeling tools for sargassum targeting
 13. Define acceptable evidence for avoided coastal harm
 14. Define how benthic impacts should be measured and weighed
+15. Test whether compression alone sinks sargassum
+16. Design mobile in situ sargassum densification vessel concept
+17. Compare spray-based ballasting against mobile densification
+18. Estimate vessel energy and emissions per processed ton
+19. Define fauna-exclusion requirements for sargassum intake systems
